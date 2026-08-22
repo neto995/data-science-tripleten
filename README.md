@@ -1,3 +1,1 @@
-# Sprint 10 · Megaline Plan Classification
-
-Machine learning classification project developed as part of the TripleTen Data Science bootcamp.
+A collection of Data Science and Machine Learning projects developed throughout my TripleTen bootcamp.
